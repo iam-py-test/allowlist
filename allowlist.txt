@@ -226,3 +226,4 @@ googlevideo.com
 atlanticmedia.map.fastly.net
 dexeqbeb7giwr.cloudfront.net
 d1tcqh4bio8cty.cloudfront.net
+otx.alienvault.com
