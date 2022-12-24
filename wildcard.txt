@@ -1,3 +1,4 @@
 wikipedia.org
 wikimedia.org
 duckduckgo.com
+localhost
