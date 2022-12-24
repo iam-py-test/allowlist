@@ -229,3 +229,7 @@ d1tcqh4bio8cty.cloudfront.net
 otx.alienvault.com
 pulsedive.com
 joinmastodon.org
+codeberg.org
+app.any.run
+hsforms.com
+hsforms.net
