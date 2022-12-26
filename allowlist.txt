@@ -233,3 +233,7 @@ codeberg.org
 app.any.run
 hsforms.com
 hsforms.net
+cbsnewsstatic.com
+assets2.cbsnewsstatic.com
+www.cbsnews.com
+cbsnews.com
