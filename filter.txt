@@ -10,3 +10,6 @@ $popup
 $3p
 *
 ||google.*^$all
+||youtube.com^$all
+||google.com^$all
+||googlevideo.com^$all
