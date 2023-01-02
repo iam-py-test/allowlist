@@ -265,4 +265,3 @@ releases.virustotal.com
 calendar.proton.me
 vost.pw
 v2.vost.pw
-mypdns.org
