@@ -265,3 +265,8 @@ releases.virustotal.com
 calendar.proton.me
 vost.pw
 v2.vost.pw
+easylist-downloads.adblockplus.org
+adblockplus.org
+malware-filter.gitlab.io
+privacy.sexy
+t.me
