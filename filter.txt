@@ -1,4 +1,4 @@
-! Title: DANGER! DO NOT INSTALL!!! FILTER BLOCKLIST!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! WILL BREAK WEBSITES!
+! Title: DANGER! DO NOT INSTALL!!! FILTER BLOCKLIST!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! WILL BREAK WEBSITES! UNINSTALL THIS LIST!
 ! Description: DANGER! DO NOT INSTALL!!! FILTER BLOCKLIST!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! WILL BREAK WEBSITES!
 ! Expires: 900 days
 ! this is a list of uBlock Origin/AdGuard/HOSTs/AdBlock Plus filters which are "bad" and shouldn't be included in any of my lists
@@ -130,3 +130,7 @@ $badfilter
 ||localhost^$all
 .1^$all
 .example^$all
+moz-extension://
+/^moz-extension:\/\//
+moz-extension://$all
+moz-extension^$all
