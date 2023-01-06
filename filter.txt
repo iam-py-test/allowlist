@@ -1,3 +1,5 @@
+! Title: DANGER! DO NOT INSTALL!!! FILTER BLOCKLIST!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! WILL BREAK WEBSITES!
+! Description: DANGER! DO NOT INSTALL!!! FILTER BLOCKLIST!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! WILL BREAK WEBSITES!
 ! this is a list of uBlock Origin/AdGuard/HOSTs/AdBlock Plus filters which are "bad" and shouldn't be included in any of my lists
 
 ! test
@@ -118,3 +120,7 @@ https://virustotal.com
 ia
 /edit/
 /main/
+$badfilter
+#!
+#!include
+#!/usr/bin/sh
