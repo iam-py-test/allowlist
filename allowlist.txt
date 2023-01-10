@@ -270,3 +270,6 @@ adblockplus.org
 malware-filter.gitlab.io
 privacy.sexy
 t.me
+cybernews.com
+thefp.com
+markuta.com
