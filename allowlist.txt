@@ -386,3 +386,13 @@ pdcdn1.top
 mastodon.top
 pressplay.top
 rule34.xxx
+ptm.flowplayer.com
+flowplayer.com
+oerproject.com
+www.oerproject.com
+cfdc4d69b.lwcdn.com
+lwcdn.com
+msecnd.net
+dc.services.visualstudio.com
+visualstudio.com
+pmi.flowplayer.com
