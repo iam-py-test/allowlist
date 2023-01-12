@@ -396,3 +396,4 @@ msecnd.net
 dc.services.visualstudio.com
 visualstudio.com
 pmi.flowplayer.com
+wss-primary.slack.com
