@@ -397,3 +397,9 @@ dc.services.visualstudio.com
 visualstudio.com
 pmi.flowplayer.com
 wss-primary.slack.com
+bup.bankofamerica.com
+bankofamerica.com
+unagi.amazon.com
+secure.gravatar.com
+gravatar.com
+stats.wp.com
