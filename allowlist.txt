@@ -403,3 +403,7 @@ unagi.amazon.com
 secure.gravatar.com
 gravatar.com
 stats.wp.com
+userlocation.googleapis.com
+googleapis.com
+gellar-pa.googleapis.com
+firebaseinstallations.googleapis.com
