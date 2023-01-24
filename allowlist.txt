@@ -23,6 +23,7 @@ ublockorigin.com
 microsoft.com
 amazon.com
 mcafee.com
+www.mcafee.com
 norton.com
 msedge.api.cdp.microsoft.com
 config.edge.skype.com
@@ -422,3 +423,17 @@ video-edge-89737c.pdx01.abs.hls.ttvnw.net
 science-edge-external-prod-73889260.us-west-2.elb.amazonaws.com
 twitch.map.fastly.net
 gaming.amazon.com
+how-i-experience-web-today.com
+detectportal.firefox.com
+firefox.com
+gchq.github.io
+howtogeek.com
+www.howtogeek.com
+commonsensemedia.org
+www.commonsensemedia.org
+docs.microsoft.com
+learn.microsoft.com
+fonts.shopifycdn.com
+shopifycdn.com
+spamhaus.org
+www.spamhaus.org
