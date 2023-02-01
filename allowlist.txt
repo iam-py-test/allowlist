@@ -439,3 +439,5 @@ spamhaus.org
 www.spamhaus.org
 unsplash.com
 plus.unsplash.com
+tu.no
+dagens.dk
