@@ -160,3 +160,11 @@ w.
 x.
 y.
 z.
+co.uk
+.co.uk
+#!include
+!#include ../
+!#include https://github.com/
+!#include !#include
+||*^$3p
+$3p,domain=~~
