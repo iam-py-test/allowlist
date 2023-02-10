@@ -442,3 +442,8 @@ plus.unsplash.com
 tu.no
 dagens.dk
 dailymail.co.uk
+player.vimeo.com
+i.vimeocdn.com
+f.vimeocdn.com
+vimeo.com
+static.xx.fbcdn.net
