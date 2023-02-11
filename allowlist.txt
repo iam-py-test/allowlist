@@ -447,3 +447,5 @@ i.vimeocdn.com
 f.vimeocdn.com
 vimeo.com
 static.xx.fbcdn.net
+trust-provider.com
+acme.zerossl.com
