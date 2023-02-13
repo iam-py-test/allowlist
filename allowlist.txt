@@ -457,3 +457,5 @@ yt4.ggpht.com
 prod-smartfox-tcp.city.rbwtech.net
 prod-server.city.rbwtech.net
 smartx.collector.rbwtech.net
+xiaohongshu.com
+www.xiaohongshu.com
