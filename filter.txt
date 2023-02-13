@@ -168,3 +168,6 @@ co.uk
 !#include !#include
 ||*^$3p
 $3p,domain=~~
+!#include antimalware.txt
+!#includee
+#!/bin/bash
