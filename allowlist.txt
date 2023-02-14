@@ -460,3 +460,8 @@ smartx.collector.rbwtech.net
 xiaohongshu.com
 www.xiaohongshu.com
 disneyplus.com
+nrk.no
+www.nrk.no
+router.asus.com
+pool.ntp.org
+asus.com
