@@ -467,3 +467,8 @@ pool.ntp.org
 asus.com
 grainger.com
 thefader.com
+bonzibuddy.tk
+heimdall.site
+ghostcloud.ml
+good.third-party.site
+third-party.site
