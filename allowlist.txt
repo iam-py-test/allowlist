@@ -227,9 +227,7 @@ googlevideo.com
 atlanticmedia.map.fastly.net
 dexeqbeb7giwr.cloudfront.net
 d1tcqh4bio8cty.cloudfront.net
-otx.alienvault.com
 pulsedive.com
-joinmastodon.org
 codeberg.org
 app.any.run
 hsforms.com
@@ -238,7 +236,6 @@ cbsnewsstatic.com
 assets2.cbsnewsstatic.com
 www.cbsnews.com
 cbsnews.com
-media.discordapp.net
 discordapp.net
 www.nytimes.com
 nytimes.com
@@ -287,7 +284,6 @@ cps-rca.cf
 acap.cf
 miraculousladybug.cf
 scrat.cf
-20anime.fun
 98e.fun
 apkmody.fun
 applemc.fun
