@@ -275,7 +275,6 @@ markuta.com
 nvgs.nvidia.cn
 accounts.nvgs.nvidia.cn
 battlefield.agency
-shortcut.agency
 google.cf
 rths.cf
 voitures.cf
