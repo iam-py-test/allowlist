@@ -487,3 +487,6 @@ xhwebsite.com
 xhwide1.com
 hamsterix.com
 deezer.com
+accounts.us1.gigya.com
+us1.gigya.com
+gigya.com
