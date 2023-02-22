@@ -489,3 +489,9 @@ deezer.com
 accounts.us1.gigya.com
 us1.gigya.com
 gigya.com
+xhwide2.com
+xhwide3.com
+xhwide4.com
+xhwide5.com
+xhwide6.com
+xhwide7.com
