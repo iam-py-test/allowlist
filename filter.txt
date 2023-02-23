@@ -171,3 +171,36 @@ $3p,domain=~~
 !#include antimalware.txt
 !#includee
 #!/bin/bash
+||^$all
+||^$document
+||^$3p
+0.0.0.0 0.0.0.0
+||a^$all
+||b^$all
+||c^$all
+||d^$all
+||e^$all
+||f^$all
+||g^$all
+||h^$all
+||i^$all
+||j^$all
+||k^$all
+||l^$all
+||m^$all
+||n^$all
+||o^$all
+||p^$all
+||q^$all
+||r^$all
+||s^$all
+||t^$all
+||u^$all
+||v^$all
+||w^$all
+||x^$all
+||y^$all
+||z^$all
+|^$all
+|$all
+|!all
