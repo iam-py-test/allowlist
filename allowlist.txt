@@ -900,3 +900,13 @@ page.link
 ophan.theguardian.com
 theguardian.com
 sourcepoint.theguardian.com
+mattfrisbie.substack.com
+substack.com
+shodan.io
+www.shodan.io
+w3schools.com
+www.w3schools.com
+makeuseof.com
+www.makeuseof.com
+rei.com
+www.rei.com
