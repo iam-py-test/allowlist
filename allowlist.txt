@@ -897,3 +897,6 @@ googlescholar.com
 ww.googlescholar.com
 panoramio.com
 page.link
+ophan.theguardian.com
+theguardian.com
+sourcepoint.theguardian.com
