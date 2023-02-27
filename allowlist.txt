@@ -914,3 +914,10 @@ cdn.signal.org
 signal.org
 chat.signal.org
 adguard.com
+adidas.com
+blog.phylum.io
+phylum.io
+fortinet.com
+www.fortinet.com
+theregister.com
+foundation.mozilla.org
