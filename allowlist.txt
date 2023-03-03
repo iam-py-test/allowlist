@@ -1127,3 +1127,12 @@ www.hugedomains.com
 washington.edu
 www.washington.edu
 allaboutcookies.org
+schneier.com
+www.schneier.com
+newsela.imgix.net
+imgix.net
+prod-newsela-media.s3.amazonaws.com
+safezone.cc
+tools.safezone.cc
+162.247.74.213
+download.bleepingcomputer.com
