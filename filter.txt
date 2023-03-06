@@ -204,3 +204,7 @@ $3p,domain=~~
 |^$all
 |$all
 |!all
+|$third-party
+*$3p
+$3p
+*$third-party
