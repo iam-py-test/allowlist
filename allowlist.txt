@@ -1239,3 +1239,5 @@ jsid.dev
 vercel.com
 netlify.com
 0xv1n.github.io
+hastebin.com
+gofile.io
