@@ -1210,8 +1210,6 @@ dl.dropboxusercontent.com
 filepost.io
 download2327.mediafire.com
 tmpfiles.org
-pomf.cat
-a.pomf.cat
 pastebin.pl
 webflow.io
 bilibili.com
@@ -1242,3 +1240,10 @@ netlify.com
 hastebin.com
 gofile.io
 wetransfer.com
+kinotickets.online
+ethiopianreporter.com
+addisadmassnews.com
+ethiopiainsider.com
+tvmnews.mt
+721news.com
+vientianetimeslao.la
