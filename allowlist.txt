@@ -1249,3 +1249,14 @@ tvmnews.mt
 vientianetimeslao.la
 pomf.cat
 a.pomf.cat
+google.com.af
+google.com.ai
+google.com.bd
+google.com.bh
+google.bi
+google.bj
+google.com.bn
+google.com.bo
+google.com.tr
+google.co.uk
+google.cat
