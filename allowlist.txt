@@ -1375,3 +1375,5 @@ download.developer.apple.com
 playgrounds-assets-cdn.apple.com
 playgrounds-cdn.apple.com
 sylvan.apple.com
+ipfs.io
+0xacab.org
