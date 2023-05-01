@@ -1377,3 +1377,6 @@ playgrounds-cdn.apple.com
 sylvan.apple.com
 ipfs.io
 0xacab.org
+www.mng.bz
+mng.bz
+manning.com
