@@ -1422,3 +1422,9 @@ recommend.lgtvcommon.com
 lgsmartad.com
 service.lgtvcommon.com
 alphonso.tv
+dns8.org
+ns3.cx
+ns3.link
+ns3.com
+n0.eu
+rootly.com
