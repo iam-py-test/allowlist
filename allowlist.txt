@@ -1470,3 +1470,11 @@ adblock.gardar.net
 gardar.net
 road.adblock.ro
 adblock.ro
+redditstatic.com
+www.redditstatic.com
+apm.blackfire.io
+blackfire.io
+netlify.app
+puppet-docs-herrera.netlify.app
+addons.thunderbird.net
+thunderbird.net

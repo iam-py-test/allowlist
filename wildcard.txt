@@ -2,3 +2,6 @@ wikipedia.org
 wikimedia.org
 duckduckgo.com
 localhost
+redditstatic.com
+vscode-cdn.net
+msedge.net
