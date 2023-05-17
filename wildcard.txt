@@ -5,3 +5,4 @@ localhost
 redditstatic.com
 vscode-cdn.net
 msedge.net
+zoom.us
