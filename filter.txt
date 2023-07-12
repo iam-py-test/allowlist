@@ -211,3 +211,11 @@ $3p
 net
 ttps
 0.0.0.0 ttps
+.net
+0.0.0.0 .net
+127.0.0.1 .net
+.co.uk
+0.0.0.0 .co.uk
+127.0.0.1 .co.uk
+$~image
+$~all
