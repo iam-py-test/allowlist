@@ -1568,3 +1568,9 @@ amazon.de
 init.push.apple.com
 api.amazonalexa.com
 nitter.socialspill.com
+vpn-api.proton.me
+protonstatus.com
+protonvpn.ch
+protonvpn.com
+protonvpn.net
+api.protonvpn.ch
