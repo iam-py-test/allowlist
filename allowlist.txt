@@ -1587,3 +1587,5 @@ artist.link
 pods.link
 playlist.link
 mylink.page
+go-updater.brave.com
+laptop-updates.brave.com
