@@ -1589,3 +1589,5 @@ playlist.link
 mylink.page
 go-updater.brave.com
 laptop-updates.brave.com
+microsoftstart.com
+www.microsoftstart.com
