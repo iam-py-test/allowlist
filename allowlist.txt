@@ -1591,3 +1591,8 @@ go-updater.brave.com
 laptop-updates.brave.com
 microsoftstart.com
 www.microsoftstart.com
+mirror.cc.vt.edu
+mirror.nodesdirect.com
+mirror.cepatcloud.id
+mirror.logol.ru
+mirror.transip.net
