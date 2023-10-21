@@ -1596,3 +1596,5 @@ mirror.nodesdirect.com
 mirror.cepatcloud.id
 mirror.logol.ru
 mirror.transip.net
+api.ttv.lol
+ttv.lol
