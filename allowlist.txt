@@ -1598,3 +1598,4 @@ mirror.logol.ru
 mirror.transip.net
 api.ttv.lol
 ttv.lol
+amzn.asia
