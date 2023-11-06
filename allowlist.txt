@@ -1605,3 +1605,6 @@ xn--u80a.com
 anonticket.onionize.space
 onionize.space
 premium.wix.com
+teams.microsoft.com
+teams-office-com.s-0005.dual-s-msedge.net
+dual-s-msedge.net
