@@ -1608,3 +1608,5 @@ premium.wix.com
 teams.microsoft.com
 teams-office-com.s-0005.dual-s-msedge.net
 dual-s-msedge.net
+schroederdennis.de
+144.76.85.238
