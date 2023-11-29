@@ -2363,3 +2363,5 @@ ajax.googleapis.com
 srv.sec.intl.miui.com
 miui.com
 icbcfsclearing.com
+my.f-secure.com
+f-secure.com
