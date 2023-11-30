@@ -2365,3 +2365,5 @@ miui.com
 icbcfsclearing.com
 my.f-secure.com
 f-secure.com
+ltn.fi
+sb.ltn.fi
