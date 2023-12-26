@@ -2370,3 +2370,4 @@ api.apphud.com
 apphud.com
 responder.wt.heise.de
 heise.de
+softwareadvice.com
