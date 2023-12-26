@@ -150,3 +150,10 @@ xaxsusonka.com
 xmetfyanqcz.com
 zfobfybira.com
 zupoqzadxlt.com
+
+# https://github.com/hagezi/dns-blocklists/issues/1967
+c5ads.ott.skymedia.co.uk
+skyads.ott.skymedia.co.uk
+recommendations.prd.user.itv.com
+ar.prd.content.itv.com
+toots-a.akamaihd.net
