@@ -2361,4 +2361,7 @@ seetickets.com
 ststat.net
 c.ststat.net
 express.co.uk
-InfoByIp.com
+infobyip.com
+recommendations.prd.user.itv.com
+ar.prd.content.itv.com
+toots-a.akamaihd.net
