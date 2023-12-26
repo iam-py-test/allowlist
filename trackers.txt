@@ -180,3 +180,6 @@ grant.rewards.brave.com
 api.rewards.brave.com
 rewards.brave.com
 p3a.brave.com
+
+# https://github.com/hagezi/dns-blocklists/issues/1969
+syndication.twitter.com
