@@ -51,3 +51,7 @@ sony-privacyportal.my.onetrust.com
 # https://github.com/hagezi/dns-blocklists/issues/1980
 c.ststat.net
 ststat.net
+
+# https://github.com/hagezi/dns-blocklists/issues/1981
+cmp.inmobi.com
+inmobi.com
