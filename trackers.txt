@@ -167,3 +167,16 @@ feedbackws.icloud.com
 nelreports.net
 bzib.nelreports.net
 clientfd.family.microsoft.com
+
+# https://github.com/hagezi/dns-blocklists/issues/1973 (most not trackers)
+static.brave.com
+crlsets.brave.com
+brave-core-ext.s3.brave.com
+safebrowsing.brave.com
+static1.brave.com
+laptop-updates.brave.com
+variations.brave.com
+grant.rewards.brave.com
+api.rewards.brave.com
+rewards.brave.com
+p3a.brave.com
