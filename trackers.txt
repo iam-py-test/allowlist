@@ -162,3 +162,8 @@ toots-a.akamaihd.net
 feedbackws.fe.apple-dns.net
 apple-dns.net
 feedbackws.icloud.com
+
+# https://github.com/blocklistproject/Lists/issues/1153
+nelreports.net
+bzib.nelreports.net
+clientfd.family.microsoft.com
