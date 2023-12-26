@@ -2363,3 +2363,5 @@ c.ststat.net
 express.co.uk
 infobyip.com
 madeofmore.agency
+app.gumroad.com
+gumroad.com
