@@ -2375,3 +2375,5 @@ mediamarkt.de
 drive.usercontent.google.com
 osb-apps-v2.samsungqbe.com
 samsungqbe.com
+imgbb.com
+ibb.co
