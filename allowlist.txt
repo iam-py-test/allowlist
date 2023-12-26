@@ -79,7 +79,6 @@ cdn-akamai-ec.gog-services.com
 cdn.gog.com
 presence.gog.com
 gameplay.gog.com
-insights-collector.gog.com
 external-accounts.gog.com
 aus5.mozilla.org
 forums.malwarebytes.com
@@ -451,7 +450,6 @@ oisd.nl
 yt4.ggpht.com
 prod-smartfox-tcp.city.rbwtech.net
 prod-server.city.rbwtech.net
-smartx.collector.rbwtech.net
 xiaohongshu.com
 www.xiaohongshu.com
 disneyplus.com
@@ -604,12 +602,6 @@ js.org
 gamesystemrequirements.com
 solarsystemscope.com
 www.solarsystemscope.com
-googleanalytics.com
-google-analytics.com
-googletagmanager.com
-tagmanager.google.com
-www-googletagmanager.l.google.com
-googletagservices.com
 android.com
 android-safebrowsing.google.com
 android.clients.google.com
@@ -831,7 +823,6 @@ gv.com
 library.gv.com
 gvt1.com
 gvt2.com
-rtb.pixeltracking.co
 ssl.gstatic.com
 web.dev
 deepmind.com
@@ -923,10 +914,8 @@ www.fortinet.com
 theregister.com
 foundation.mozilla.org
 device-provisioning.googleapis.com
-tracking.epicgames.com
 epicgames.com
 jwplayer.com
-gstaticadssl.l.google.com
 fonts.google.com
 consensu.org
 onedrive.com
@@ -2367,3 +2356,7 @@ my.f-secure.com
 f-secure.com
 ltn.fi
 sb.ltn.fi
+winterwonderland.seetickets.com
+seetickets.com
+ststat.net
+c.ststat.net
