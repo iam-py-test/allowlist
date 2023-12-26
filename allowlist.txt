@@ -2366,3 +2366,5 @@ madeofmore.agency
 app.gumroad.com
 gumroad.com
 carstens.space
+api.apphud.com
+apphud.com
