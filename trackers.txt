@@ -611,3 +611,7 @@ kufkzianqji.com
 lalalkamwsz.com
 lheapjmhaab.com
 lkooxfoqgot.com
+
+# https://github.com/ClearURLs/Rules/issues/96
+go.corsair.com
+target.georiot.com
