@@ -157,3 +157,8 @@ skyads.ott.skymedia.co.uk
 recommendations.prd.user.itv.com
 ar.prd.content.itv.com
 toots-a.akamaihd.net
+
+# https://github.com/hagezi/dns-blocklists/issues/1968
+feedbackws.fe.apple-dns.net
+apple-dns.net
+feedbackws.icloud.com
