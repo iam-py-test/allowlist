@@ -635,3 +635,7 @@ trrsf.com
 # https://github.com/StevenBlack/hosts/issues/2232
 browser.pipe.aria.microsoft.com
 mobile.pipe.aria.microsoft.com
+data.microsoft.com
+aria.microsoft.com
+smartscreen.microsoft.com
+officeapps.live.com
