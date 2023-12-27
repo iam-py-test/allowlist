@@ -631,3 +631,7 @@ klaviyo-onsite.map.fastly.net
 # https://github.com/hagezi/dns-blocklists/issues/1959
 s1.trrsf.com
 trrsf.com
+
+# https://github.com/StevenBlack/hosts/issues/2232
+browser.pipe.aria.microsoft.com
+mobile.pipe.aria.microsoft.com
