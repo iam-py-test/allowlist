@@ -2384,3 +2384,5 @@ pantip.com
 corsair.com
 elmundo.es
 itv.com
+cdu.de
+usom.gov.tr
