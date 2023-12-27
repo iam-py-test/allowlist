@@ -639,3 +639,15 @@ data.microsoft.com
 aria.microsoft.com
 smartscreen.microsoft.com
 officeapps.live.com
+
+# https://github.com/ShadowWhisperer/BlockLists/issues/133
+notifications.digital-delivery.com
+digital-delivery.com
+
+# https://github.com/hagezi/dns-blocklists/issues/1953
+pvdynatracegw01.cosmote.gr
+gcpsmapi.vodafone.com
+
+# https://github.com/hagezi/dns-blocklists/issues/1954
+cdn.optimizely.com
+optimizely.com
