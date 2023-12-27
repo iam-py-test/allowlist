@@ -2388,3 +2388,5 @@ cdu.de
 usom.gov.tr
 computerworld.dk
 terra.com.br
+notifications.digital-delivery.com
+digital-delivery.com
