@@ -622,3 +622,8 @@ itv-ads.aimatch.com
 aimatch.com
 itv-tier1.ireland.delivery.aimatch.net
 aimatch.net
+
+# https://github.com/StevenBlack/hosts/issues/2534
+static.klaviyo.com
+klaviyo.com
+klaviyo-onsite.map.fastly.net
