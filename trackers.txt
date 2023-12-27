@@ -616,7 +616,7 @@ lkooxfoqgot.com
 go.corsair.com
 target.georiot.com
 
-# 
+# https://github.com/hagezi/dns-blocklists/issues/1984
 tom.itv.com
 itv-ads.aimatch.com
 aimatch.com
