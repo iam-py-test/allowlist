@@ -615,3 +615,10 @@ lkooxfoqgot.com
 # https://github.com/ClearURLs/Rules/issues/96
 go.corsair.com
 target.georiot.com
+
+# 
+tom.itv.com
+itv-ads.aimatch.com
+aimatch.com
+itv-tier1.ireland.delivery.aimatch.net
+aimatch.net
