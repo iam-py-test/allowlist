@@ -627,3 +627,7 @@ aimatch.net
 static.klaviyo.com
 klaviyo.com
 klaviyo-onsite.map.fastly.net
+
+# https://github.com/hagezi/dns-blocklists/issues/1959
+s1.trrsf.com
+trrsf.com
