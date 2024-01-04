@@ -2420,3 +2420,5 @@ helsinki.chamber.fi
 kauppakamari.fi
 arbitration.fi
 paaomasijoittajat.fi
+wallet-api.asnapieu.com
+asnapieu.com
