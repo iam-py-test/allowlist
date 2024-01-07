@@ -672,3 +672,6 @@ zpsocial-f54-org.zadn.vn
 zpsocial-f55-org.zadn.vn
 zpsocial-f56-org.zadn.vn
 zpsocial-f57-org.zadn.vn
+
+# https://github.com/RPiList/specials/issues/1408
+device-metrics-us-2.amazon.com
