@@ -651,3 +651,24 @@ gcpsmapi.vodafone.com
 # https://github.com/hagezi/dns-blocklists/issues/1954
 cdn.optimizely.com
 optimizely.com
+
+# https://github.com/hagezi/dns-blocklists/issues/2007
+zpsocial-f35-org.zadn.vn
+zpsocial-f40-org.zadn.vn
+zpsocial-f41-org.zadn.vn
+zpsocial-f42-org.zadn.vn
+zpsocial-f43-org.zadn.vn
+zpsocial-f44-org.zadn.vn
+zpsocial-f45-org.zadn.vn
+zpsocial-f46-org.zadn.vn
+zpsocial-f47-org.zadn.vn
+zpsocial-f48-org.zadn.vn
+zpsocial-f49-org.zadn.vn
+zpsocial-f50-org.zadn.vn
+zpsocial-f51-org.zadn.vn
+zpsocial-f52-org.zadn.vn
+zpsocial-f53-org.zadn.vn
+zpsocial-f54-org.zadn.vn
+zpsocial-f55-org.zadn.vn
+zpsocial-f56-org.zadn.vn
+zpsocial-f57-org.zadn.vn
