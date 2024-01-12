@@ -675,3 +675,12 @@ zpsocial-f57-org.zadn.vn
 
 # https://github.com/RPiList/specials/issues/1408
 device-metrics-us-2.amazon.com
+
+# https://github.com/StevenBlack/hosts/issues/2556
+id-eu.piano.io
+buy-eu.piano.io
+cdn.piano.io
+piano.io
+cdn-eu.piano.io
+c2-eu.piano.io
+tags-eu.tiqcdn.com
