@@ -684,3 +684,6 @@ piano.io
 cdn-eu.piano.io
 c2-eu.piano.io
 tags-eu.tiqcdn.com
+
+# https://github.com/hagezi/dns-blocklists/issues/2034
+downiestatistics.com
