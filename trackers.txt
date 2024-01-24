@@ -687,3 +687,19 @@ tags-eu.tiqcdn.com
 
 # https://github.com/hagezi/dns-blocklists/issues/2034
 downiestatistics.com
+
+# https://github.com/hagezi/dns-blocklists/issues/2072
+asia-commonitor-stsdk.vivoglobal.com
+asia-compnrt-stsdk.vivoglobal.com
+asia-analyzer-appstore.vivoglobal.com
+asia-comonrt-stsdk.vivoglobal.com
+asia-comort-stsdk.vivoglobal.com
+asia-ex-adlog.vivoglobal.com
+asia-exstsdk.vivoglobal.com
+asia-monitor-stsdk.vivoglobal.com
+asia-onrt-stsdk.vivoglobal.com
+asia-ort-stsdk.vivoglobal.com
+asia-pnrt-stsdk.vivoglobal.com
+asia-prt-stsdk.vivoglobal.com
+asia-stsdk.vivoglobal.com
+cname-sin01-stsdk09.vivoglobal.com
