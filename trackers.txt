@@ -703,3 +703,6 @@ asia-pnrt-stsdk.vivoglobal.com
 asia-prt-stsdk.vivoglobal.com
 asia-stsdk.vivoglobal.com
 cname-sin01-stsdk09.vivoglobal.com
+
+# https://github.com/hagezi/dns-blocklists/issues/2089
+image.ard.de
