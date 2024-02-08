@@ -2430,3 +2430,7 @@ hopp.to
 d10yke8mddzjba.cloudfront.net
 netatwork.de
 www.netatwork.de
+api.officevibe.workleap.com
+activities.officevibe.workleap.com
+officevibe.workleap.com
+workleap.com
