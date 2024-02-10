@@ -706,3 +706,31 @@ cname-sin01-stsdk09.vivoglobal.com
 
 # https://github.com/hagezi/dns-blocklists/issues/2089
 image.ard.de
+
+# https://github.com/StevenBlack/hosts/issues/2568
+cdn.liftoff-creatives.io
+liftoff-creatives.io
+product-cdn.liftoff-creatives.io
+preview.liftoff-creatives.io
+adexp.liftoff.io
+analytics.liftoff.io
+applovin-europe-rtb.liftoff.io
+appodeal-asia-rtb.liftoff.io
+appodeal-europe-rtb.liftoff.io
+appodeal-rtb.liftoff.io
+bigo-asia-rtb.liftoff.io
+bigo-europe-rtb.liftoff.io
+bigo-rtb.liftoff.io
+build-cdn.liftoff.io
+cdn.liftoff.io
+click4.liftoff.io
+click.liftoff.io
+impression-asia.liftoff.io
+impression-east.liftoff.io
+impression-europe.liftoff.io
+lb-rtb-europe.liftoff.io
+privacy.liftoff.io
+rtbnotify.liftoff.io
+biddingmax.apse.trk.rixserv.com
+et-l.w.inmobi.com
+i.l-new.inmobicdn.net
