@@ -2439,3 +2439,4 @@ workleap.com
 188.114.96.0
 heylink.me
 88.99.170.43
+parentalcontrol.eset.com
