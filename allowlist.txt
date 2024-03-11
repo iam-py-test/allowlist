@@ -2442,3 +2442,5 @@ heylink.me
 parentalcontrol.eset.com
 france24.com
 54.231.231.32
+static.fundraiseup.com
+fundraiseup.com
