@@ -734,3 +734,6 @@ rtbnotify.liftoff.io
 biddingmax.apse.trk.rixserv.com
 et-l.w.inmobi.com
 i.l-new.inmobicdn.net
+
+# https://github.com/hagezi/dns-blocklists/issues/2453
+b5x-sentry.1passwordservices.com
