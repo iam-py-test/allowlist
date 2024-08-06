@@ -3017,3 +3017,4 @@ ns1.smoot.apple.com
 ns2.smoot.apple.com
 1passwordservices.com
 fitgirl-repacks.site
+hkdk.events
