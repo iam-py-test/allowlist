@@ -3022,3 +3022,7 @@ gendigital.com
 216.58.211.202
 jp.foundation
 qrco.de
+agrdvpn-tm.com
+api.agrdvpn-tm.com
+adguard-vpn.cc
+cdn.adguard-vpn.cc
