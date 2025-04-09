@@ -3026,3 +3026,4 @@ agrdvpn-tm.com
 api.agrdvpn-tm.com
 adguard-vpn.cc
 cdn.adguard-vpn.cc
+store5.gofile.io
