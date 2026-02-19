@@ -3032,3 +3032,4 @@ iphone-ld.apple.com
 infosec.exchange
 hopium.club
 fedi.hopium.club
+cbc.ca
